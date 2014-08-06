@@ -1,0 +1,14 @@
+D:\Projets\Encryption\Data\obj\Debug\Encryption.Data.csprojResolveAssemblyReference.cache
+D:\Projets\Encryption\Data\bin\Debug\Encryption.Security.dll
+D:\Projets\Encryption\Data\bin\Debug\EntityFramework.dll
+D:\Projets\Encryption\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projets\Encryption\Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\Projets\Encryption\Data\bin\Debug\Encryption.Security.pdb
+D:\Projets\Encryption\Data\bin\Debug\EntityFramework.xml
+D:\Projets\Encryption\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projets\Encryption\Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\Projets\Encryption\Data\bin\Debug\Encryption.Data.dll.config
+D:\Projets\Encryption\Data\bin\Debug\Encryption.Data.dll
+D:\Projets\Encryption\Data\bin\Debug\Encryption.Data.pdb
+D:\Projets\Encryption\Data\obj\Debug\Encryption.Data.dll
+D:\Projets\Encryption\Data\obj\Debug\Encryption.Data.pdb

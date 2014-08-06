@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EncryptionDbModelStoreContainer" CdmEntityContainer="EncryptionDbEntities">
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="EncryptionDbModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="KeyVersion" ColumnName="KeyVersion" />
+          <ScalarProperty Name="IntegrityChecksum" ColumnName="IntegrityChecksum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,8 @@
+D:\Projets\Encryption\Security\bin\Debug\Encryption.Security.dll
+D:\Projets\Encryption\Security\bin\Debug\Encryption.Security.pdb
+D:\Projets\Encryption\Security\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Projets\Encryption\Security\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\Projets\Encryption\Security\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\Projets\Encryption\Security\obj\Debug\Encryption.Security.dll
+D:\Projets\Encryption\Security\obj\Debug\Encryption.Security.pdb
+D:\Projets\Encryption\Security\obj\Debug\Encryption.Security.csprojResolveAssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption.Data", "Data\Encryption.Data.csproj", "{D430F0A0-2CE4-4167-A228-3664FE2520F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption.Security", "Security\Encryption.Security.csproj", "{01843261-76BE-4861-92E8-12BE7C14DBA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption.Web", "Encryption.Web\Encryption.Web.csproj", "{B3F1062C-6D8B-460B-B403-AB3E375B4822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D430F0A0-2CE4-4167-A228-3664FE2520F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D430F0A0-2CE4-4167-A228-3664FE2520F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D430F0A0-2CE4-4167-A228-3664FE2520F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D430F0A0-2CE4-4167-A228-3664FE2520F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01843261-76BE-4861-92E8-12BE7C14DBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01843261-76BE-4861-92E8-12BE7C14DBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01843261-76BE-4861-92E8-12BE7C14DBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01843261-76BE-4861-92E8-12BE7C14DBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F1062C-6D8B-460B-B403-AB3E375B4822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F1062C-6D8B-460B-B403-AB3E375B4822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F1062C-6D8B-460B-B403-AB3E375B4822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F1062C-6D8B-460B-B403-AB3E375B4822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
